@@ -1,0 +1,1 @@
+/Users/macbook/Documents/Python/goit-rdb-hw-04/.venv/lib/python3.12/site-packages/pgserver/pginstall/bin/postgres "-D" "/Users/macbook/Documents/Python/goit-rdb-hw-04/hw4_pg" "-h" "" "-k" "/Users/macbook/Documents/Python/goit-rdb-hw-04/hw4_pg"
